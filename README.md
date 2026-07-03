@@ -1,0 +1,2 @@
+# cedarresort
+Static site: cedarresort
